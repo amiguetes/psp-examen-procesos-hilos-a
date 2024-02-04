@@ -1,6 +1,5 @@
 package es.cipfpbatoi.dam.psp.examen;
 
-import javax.swing.text.Utilities;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
