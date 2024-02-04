@@ -18,7 +18,7 @@ The project does not specify any dependencies in the `pom.xml` file.
 ## Usage
 To run the project, you can use the following command:
 ```
-mvn exec:java -Dexec.mainClass="es.cipfpbatoi.dam.psp.examen.Main" -Dexec.args="arg1 arg2 arg3"
+mvn exec:java -Dexec.mainClass="es.cipfpbatoi.dam.psp.examen.Ejercicio2" -Dexec.args="arg1 arg2 arg3"
 ```
 Replace `arg1 arg2 arg3` with the arguments you want to pass to the main class.
 
