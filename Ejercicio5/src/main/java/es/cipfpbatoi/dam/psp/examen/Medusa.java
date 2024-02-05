@@ -33,7 +33,6 @@ public class Medusa implements Runnable{
 
                 }
             } else {
-                // Asegúrate de "interrumpir" a Krilín
                 for (int i = 0; i < personajes.length; i++) {
                     if (personajes[i].getName().equals("Krilín")
                             && personajes[i].isAlive() && !personajes[i].isInterrupted()) {
